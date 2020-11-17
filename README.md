@@ -1,2 +1,2 @@
 # GenderPrediction
-Neural networks for predicting the gender using image processing 
+Neural networks that aims to predicting gender using image processing, Keras and tensorflow
